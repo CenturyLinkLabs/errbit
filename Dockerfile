@@ -1,4 +1,4 @@
-FROM centurylinklabs/ruby-base:2.1.2
+FROM centurylink/ruby-base:2.1.2
 
 MAINTAINER CenturyLink Labs <clt-labs-futuretech@centurylink.com>
 
