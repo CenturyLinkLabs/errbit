@@ -2,6 +2,10 @@
 
 Image for running [Errbit](https://github.com/errbit/errbit) in a docker container.
 
+## NOTE
+
+This repo is no longer being maintained. Users are welcome to fork it, but we make no warranty of its functionality.
+
 ## Usage
 
 Errbit requires a MongoDB instance for persisting data. The Errbit container must
